@@ -1,5 +1,6 @@
 # AWS Networking Lab Runbook (Fundamentals)
 
+These are my personal lab notes written in a runbook/checklist style so I can repeat the setup quickly.
 Hands-on notes from AWS fundamentals labs focusing on VPC basics, traffic flow, and troubleshooting.  
 This repo is documentation-first (runbook style) rather than a production architecture.
 
