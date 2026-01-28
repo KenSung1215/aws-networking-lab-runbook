@@ -21,3 +21,8 @@ I verify changes with simple tests (e.g., SSH/HTTP reachability, ping/traceroute
 
 ## Notes
 All work is done in legal lab environments. No production systems are targeted.
+
+## Validation Screenshots
+![Security Group Inbound](screenshots/security-group-inbound-masked.png)
+![EC2 Details](screenshots/ec2-instance-details-masked.png)
+![SSH Success](screenshots/ssh-login-success-masked.png)
